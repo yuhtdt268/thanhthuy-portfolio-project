@@ -1,8 +1,7 @@
 # The Complete SEO & AI SEO Course for 2026 (Full Beginner's Guide)
 
 **Expert:** Matt Kenyon
-**URL:** [https://www.youtube.com/watch?v=7DRO4rEIHDk](https://www.youtube.com/watch?v=7DRO4rEIHDk)
-**Date collected:** 2026-06-16
+**URL:** [https://www.youtube.com/watch?v=7DRO4rEIHDk](https://www.youtube.com/watch?v=7DRO4rEIHDk)  
 **Why this video:** Full beginner-to-advanced guide covering how AI is changing SEO in 2026 — practical, up-to-date, covers both traditional and AI SEO workflows with real business examples.
 
 ---
