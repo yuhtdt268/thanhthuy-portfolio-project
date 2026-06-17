@@ -2,7 +2,7 @@
 
 **Expert:** Kevin Indig
 **Interviewed by:** Ahrefs Podcast (Tim Soulo)
-**URL:** *(add YouTube link here)*  
+**URL:** [https://www.youtube.com/watch?v=jQXvbeYF5go](https://www.youtube.com/watch?v=jQXvbeYF5go)  
 **Why this video:** Kevin Indig advised Reddit, Dropbox, Snapchat, Nextdoor and led SEO at Shopify, G2, and Atlassian. His newsletter reaches 22,000+ marketers weekly. This interview covers the real business impact of AI on SEO, how LLM visibility differs from Google rankings, and specific AI workflows he's used at high-growth companies like Ramp.
 
 ---

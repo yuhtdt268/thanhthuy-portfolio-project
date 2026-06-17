@@ -1,10 +1,9 @@
 # The Modern-Day Michelin Guide: Anthropic's Massive Programmatic SEO Opportunity
 
-**Expert:** Patrick Stox
-**Source type:** Blog post / Newsletter
-
-**Published:** June 7, 2026
-**Date collected:** 2026-06-17
+**Expert:** Patrick Stox  
+**Source type:** Blog post  
+**Published:** June 7, 2026  
+**URL:** [https://patrickstox.com/anthropic-programmatic-seo/](https://patrickstox.com/anthropic-programmatic-seo/)  
 **Why this post:** A rare example of a practitioner pitching a large-scale programmatic SEO strategy built entirely on AI-generated tools — with real keyword data, a viral acquisition loop, and a technically detailed execution plan. High-signal thinking on how AI and programmatic SEO intersect at scale.
 
 ---
@@ -84,3 +83,4 @@ The core insight: the best programmatic SEO strategies create content that serve
 > "Each embed would feature a subtle 'Created with Claude' nofollow link back to the main artifact in the gallery."
 
 > "Making every tool freely embeddable across the web creates a viral acquisition loop: visitors who want to customize an embedded tool must sign up for Claude."
+

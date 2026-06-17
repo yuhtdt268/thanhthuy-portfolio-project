@@ -2,10 +2,10 @@
 
 **Expert:** Eli Schwartz
 **Role:** Independent SEO consultant, author of *Product-Led SEO*
-**LinkedIn:** https://www.linkedin.com/in/schwartze/
-**Source type:** Newsletter — Product-Led SEO
+**LinkedIn:** [https://www.linkedin.com/in/schwartze/](https://www.linkedin.com/in/schwartze/)
+**Source type:** Blog — Product-Led SEO  
 **Published:** June 11, 2026
-**URL:** https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand
+**URL:** [https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand](https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand)
 **Why this post:** Eli Schwartz cuts through a widespread misconception in AI SEO — that ranking for brand comparison keywords is a technical problem. His argument that brand reputation, editorial mentions, and honest content are what actually win these queries is directly relevant to any AI-powered SEO content strategy.
 
 ---
@@ -50,6 +50,7 @@ None of these trust signals are affected by technical SEO.
 Winning brand comparison queries requires a PR-type effort — but not traditional press releases about funding rounds.
 
 **What actually works:**
+
 - Actively seeding the real facts and differentiators about your product in places that matter: third-party review sites, social media, YouTube, Reddit
 - Getting your product covered by journalists and analysts who cover your category
 - Building editorial mentions that exist independently of your own website
@@ -65,12 +66,12 @@ Before PR can even work, the content on your own site needs to exist — and nee
 **Two common failures:**
 
 1. **Companies wonder why they don't rank for terms they've never published about.** The page simply doesn't exist.
-
 2. **When the page does exist, it's usually too biased to rank.** Most companies write "X vs Y" comparison pages that declare themselves the winner in every category and refuse to acknowledge any tradeoffs.
 
 Sophisticated buyers — and AI systems that simulate human judgment — see through biased marketing copy immediately.
 
 **What winning comparison pages do differently:**
+
 - They outline specific scenarios where a competitor is genuinely the better choice
 - They are grounded in actual product behavior, not positioning language
 - They are honest enough that a reader could make a real decision from them
@@ -103,3 +104,4 @@ Technical SEO cannot substitute for either of those two things.
 - Confirms the pattern across all experts in this research: AI search rewards genuine authority, community signals, and editorial mentions — not technical optimization alone
 - Directly challenges the premise of many AEO tool vendors who frame AI visibility as a technical problem with a technical solution
 - Provides a strategic framework for what "AI-powered content production" actually needs to produce: honest, specific, continuously updated content backed by real brand reputation
+
