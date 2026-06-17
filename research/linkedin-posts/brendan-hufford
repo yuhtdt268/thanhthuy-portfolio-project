@@ -1,0 +1,63 @@
+# LinkedIn Post Analysis: Google's AEO Guidance vs. Reality
+**Author**: Brendan Hufford
+**Source**: LinkedIn
+
+---
+
+## 🛑 The Core Conflict: Official Statements vs. Reality
+Google recently published an official guide claiming that AEO (Answer Engine Optimization) and GEO (Generative Engine Optimization) are "still just SEO." They advised that specific tactics like `llms.txt` files, chunking, or AI-specific schema are unnecessary. 
+
+However, practitioners actively tracking AEO data (100+ prompts per client engagement over a year) see a reality that directly contradicts Google's public advice.
+
+---
+
+## 🏛️ Historical Precedents: The Antitrust Trial Revelations
+The author argues that marketers should not take Google's statements as absolute truth ("gospel"), pointing to a historical pattern of Google's public advice protecting their own interests rather than helping SEOs. 
+
+This pattern was exposed during the recent Google Antitrust Trial:
+* **Chrome Data**: Google publicly claimed Chrome data wasn't used in ranking. The trial confirmed it is a direct ranking signal.
+* **Link Building**: Google advised webmasters to "avoid link building." The trial explicitly confirmed that link building is a key quality signal and anchor text is a "valuable clue" for relevance.
+
+---
+
+## 🎯 Strategic Takeaway
+* **Maintain Independent Data Tracking**: Do not abandon AI-specific optimizations (like chunking or structured data) just because Google says they are unnecessary. Rely on independent data tracking and real-world results.
+* **Google as a Single Data Point**: Treat Google's official guidance as just one data point in your strategy, not the absolute truth.
+* **The Dual Win**: Great content marketing, backed by the right strategy, can successfully win in both traditional SEO and modern AEO environments.
+
+---
+
+## 📂 Appendix: Raw Post
+Breaking: Google just published an official guide saying AEO and GEO are "still SEO."
+
+They also said you don't need llms.txt files, chunking, or AI-specific schema.
+
+They said just keep doing SEO (aka the thing they said not to do for a decade+)
+
+(Dis)respectfully: I don't believe them.
+
+And neither should you.
+
+Google has a pattern of saying one thing publicly while their actual systems reward the opposite. We've seen this movie before:
+
+1. Google said Chrome data wasn’t used in ranking websites.
+
+Antitrust trial confirmed it's a direct ranking signal.
+
+2. Google said to "avoid link building."
+
+Antitrust trial explicitly confirmed its a key quality signal and anchor text is a "valuable clue" for relevance.
+
+Look - Google's public advice always protects THEIR interests. 
+
+I've been tracking 100+ AEO prompts per client engagement for over a year.
+
+What I'm seeing in the data doesn't match what Google is telling us.
+
+Does this mean ignore everything they say? No.
+
+But treat their guidance as one data point, not gospel.
+
+⚡️
+
+PS - GREAT content marketing means your can win in both SEO *and* AEO. You just need the right strategy behind it.

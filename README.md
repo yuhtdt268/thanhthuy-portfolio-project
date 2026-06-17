@@ -33,18 +33,18 @@ AI is changing SEO faster than most companies can adapt. Understanding how top p
 ## Experts Collected
 
 
-| #   | Name            | Role                          | Sources           |
-| --- | --------------- | ----------------------------- | ----------------- |
-| 1   | Eli Schwartz    | Independent SEO consultant    | LinkedIn          |
-| 2   | Kevin Indig     | Ex-Shopify/G2 SEO director    | LinkedIn          |
-| 3   | Matt Kenyon     | SEO & AI SEO Strategist       | YouTube           |
-| 4   | Brendan Hufford | Founder of Growth Sprints     | LinkedIn          |
-| 5   | Aleyda Solis    | International SEO consultant  | LinkedIn, YouTube |
-| 6   | Cyrus Shepard   | Founder of Zyppy              | LinkedIn, YouTube |
-| 7   | Patrick Stox    | Product Advisor at Ahrefs     | LinkedIn          |
-| 8   | Liz Willits     | SaaS content & SEO strategist | LinkedIn          |
-| 9   | Ryan Law        | Director of Content at Ahrefs | LinkedIn          |
-| 10  | Chima Mmeje     | Founder of Zenith Copy        | LinkedIn          |
+| #   | Name            | Role                                                      | Sources             |
+| --- | --------------- | --------------------------------------------------------- | ------------------- |
+| 1   | Eli Schwartz    | Strategic SEO Consultant, Author & AI/Search Investor     | LinkedIn, Newspaper |
+| 2   | Kevin Indig     | Strategic Organic Growth Advisor & Creator of Growth Memo | LinkedIn            |
+| 3   | Matt Kenyon     | SEO & AI SEO Strategist                                   | YouTube             |
+| 4   | Brendan Hufford | Founder of Growth Sprints                                 | LinkedIn            |
+| 5   | Aleyda Solis    | International SEO consultant                              | LinkedIn, YouTube   |
+| 6   | Cyrus Shepard   | Founder of Zyppy                                          | LinkedIn, YouTube   |
+| 7   | Patrick Stox    | Product Advisor at Ahrefs                                 | LinkedIn            |
+| 8   | Liz Willits     | SaaS content & SEO strategist                             | LinkedIn            |
+| 9   | Ryan Law        | Director of Content at Ahrefs                             | LinkedIn            |
+| 10  | Chima Mmeje     | Founder of Zenith Copy                                    | LinkedIn            |
 
 
 ---
