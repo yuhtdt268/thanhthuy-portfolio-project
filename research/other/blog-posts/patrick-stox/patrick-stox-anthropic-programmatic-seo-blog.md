@@ -1,10 +1,10 @@
 # The Modern-Day Michelin Guide: Anthropic's Massive Programmatic SEO Opportunity
 
-**Expert:** Patrick Stox  
-**Source type:** Blog post  
-**Published:** June 7, 2026  
-**URL:** [https://patrickstox.com/anthropic-programmatic-seo/](https://patrickstox.com/anthropic-programmatic-seo/)  
-**Why this post:** A rare example of a practitioner pitching a large-scale programmatic SEO strategy built entirely on AI-generated tools — with real keyword data, a viral acquisition loop, and a technically detailed execution plan. High-signal thinking on how AI and programmatic SEO intersect at scale.
+* **Expert:** Patrick Stox  
+* **Source type:** Blog post  
+* **Published:** June 7, 2026  
+* **URL:** [https://patrickstox.com/anthropic-programmatic-seo/](https://patrickstox.com/anthropic-programmatic-seo/)  
+* **Why this post:** A rare example of a practitioner pitching a large-scale programmatic SEO strategy built entirely on AI-generated tools — with real keyword data, a viral acquisition loop, and a technically detailed execution plan. High-signal thinking on how AI and programmatic SEO intersect at scale.
 
 ---
 

@@ -1,10 +1,10 @@
 # LinkedIn Post: Please STOP Doing "AEO"
 
-**Expert:** Jake Ward
-**Role:** Growth strategist, founder — driven 175,000+ users for his own companies and clients
-**LinkedIn:** [https://www.linkedin.com/in/jakezward/](https://www.linkedin.com/in/jakezward/)  
-**Source type:** LinkedIn post + visual diagram
-**Why this post:** Jake Ward cuts through AEO hype with a practical 6-step audit anyone can run today using free tools. His visual diagram (see below) clearly illustrates the gap between what people think gets them recommended in AI search vs. what actually does — directly relevant to building an AI-powered SEO content strategy.
+* **Expert:** Jake Ward
+* **Role:** Growth strategist, founder — driven 175,000+ users for his own companies and clients
+* **LinkedIn:** [https://www.linkedin.com/in/jakezward/](https://www.linkedin.com/in/jakezward/)  
+* **Source type:** LinkedIn post + visual diagram
+* **Why this post:** Jake Ward cuts through AEO hype with a practical 6-step audit anyone can run today using free tools. His visual diagram (see below) clearly illustrates the gap between what people think gets them recommended in AI search vs. what actually does — directly relevant to building an AI-powered SEO content strategy.
 
 ---
 

@@ -1,10 +1,10 @@
 # LinkedIn Post: The Frustrated Reader Method — Why Your AI Articles Say Nothing New
 
-**Expert:** Gael Breton
-**Role:** Co-founder of Authority Hacker, AI and automation educator — 15,000+ paid students
-**LinkedIn:** [https://www.linkedin.com/in/gael-breton/](https://www.linkedin.com/in/gael-breton/)
-**Source type:** LinkedIn post + visual diagram  
-**Why this post:** Gael Breton has spent nearly two decades building content sites at scale. This post reveals the specific AI content research workflow his team developed to produce articles with genuine information gain — solving the core problem with AI-generated content: it's well-written but says nothing new.
+* **Expert:** Gael Breton
+* **Role:** Co-founder of Authority Hacker, AI and automation educator — 15,000+ paid students
+* **LinkedIn:** [https://www.linkedin.com/in/gael-breton/](https://www.linkedin.com/in/gael-breton/)
+* **Source type:** LinkedIn post + visual diagram  
+* **Why this post:** Gael Breton has spent nearly two decades building content sites at scale. This post reveals the specific AI content research workflow his team developed to produce articles with genuine information gain — solving the core problem with AI-generated content: it's well-written but says nothing new.
 
 ---
 

@@ -1,9 +1,9 @@
 # Agents Are Early, Visibility Is Urgent: Cyrus Shepard on 2025 AI SEO
 
-**Expert:** Cyrus Shepard
-**Role:** Founder of Zyppy SEO, former Head of SEO at Moz  
-**URL: [https://www.youtube.com/watch?v=ce_4AR5cx8A&t=20s](https://www.youtube.com/watch?v=ce_4AR5cx8A&t=20s)**
-**Why this video:** Cyrus Shepard is one of the most data-driven voices in SEO. He runs regular experiments, works directly with SaaS startups and Fortune 500 companies, and publishes findings openly. This interview captures his real-time perspective on how AI is reshaping client work, content strategy, and the SEO profession itself in 2025.
+* **Expert:** Cyrus Shepard
+* **Role:** Founder of Zyppy SEO, former Head of SEO at Moz  
+* **URL: [https://www.youtube.com/watch?v=ce_4AR5cx8A&t=20s](https://www.youtube.com/watch?v=ce_4AR5cx8A&t=20s)**
+* **Why this video:** Cyrus Shepard is one of the most data-driven voices in SEO. He runs regular experiments, works directly with SaaS startups and Fortune 500 companies, and publishes findings openly. This interview captures his real-time perspective on how AI is reshaping client work, content strategy, and the SEO profession itself in 2025.
 
 ---
 

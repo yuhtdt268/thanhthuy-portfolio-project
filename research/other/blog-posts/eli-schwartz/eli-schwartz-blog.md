@@ -1,12 +1,12 @@
 # AEO & SEO on Brand Terms Needs Brand Efforts
 
-**Expert:** Eli Schwartz
-**Role:** Independent SEO consultant, author of *Product-Led SEO*
-**LinkedIn:** [https://www.linkedin.com/in/schwartze/](https://www.linkedin.com/in/schwartze/)
-**Source type:** Blog — Product-Led SEO  
-**Published:** June 11, 2026
-**URL:** [https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand](https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand)
-**Why this post:** Eli Schwartz cuts through a widespread misconception in AI SEO — that ranking for brand comparison keywords is a technical problem. His argument that brand reputation, editorial mentions, and honest content are what actually win these queries is directly relevant to any AI-powered SEO content strategy.
+* **Expert:** Eli Schwartz
+* **Role:** Independent SEO consultant, author of *Product-Led SEO*
+* **LinkedIn:** [https://www.linkedin.com/in/schwartze/](https://www.linkedin.com/in/schwartze/)
+* **Source type:** Blog — Product-Led SEO  
+* **Published:** June 11, 2026
+* **URL:** [https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand](https://www.productledseo.com/p/visibility-on-brand-terms-needs-brand)
+* **Why this post:** Eli Schwartz cuts through a widespread misconception in AI SEO — that ranking for brand comparison keywords is a technical problem. His argument that brand reputation, editorial mentions, and honest content are what actually win these queries is directly relevant to any AI-powered SEO content strategy.
 
 ---
 

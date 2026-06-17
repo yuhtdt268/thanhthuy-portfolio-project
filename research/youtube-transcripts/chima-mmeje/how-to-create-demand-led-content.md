@@ -1,10 +1,9 @@
 # How to Create Demand-Led Content That Builds Affinity
 
-**Expert:** Chima Mmeje
-**Role:** Senior Content Marketing Manager at Moz, founder of Zenith Copy
-**Event:** BrightonSEO — Spring 2026
-**URL:** [https://www.youtube.com/watch?v=qE4r9Vbt6dA](https://www.youtube.com/watch?v=qE4r9Vbt6dA)  
-**Why this video:** Chima Mmeje is one of the most practical voices on AI-powered content production. This talk at BrightonSEO covers her full demand-led content playbook — from finding demand signals to webinar flywheels, repurposing workflows, and using AI for data analysis — with real numbers and specific tools throughout.
+* **Expert:** Chima Mmeje
+* **Role:** Senior Content Marketing Manager at Moz, founder of Zenith Copy
+* **URL:** [https://www.youtube.com/watch?v=qE4r9Vbt6dA](https://www.youtube.com/watch?v=qE4r9Vbt6dA)  
+* **Why this video:** Chima Mmeje is one of the most practical voices on AI-powered content production. This talk at BrightonSEO covers her full demand-led content playbook — from finding demand signals to webinar flywheels, repurposing workflows, and using AI for data analysis — with real numbers and specific tools throughout.
 
 ---
 

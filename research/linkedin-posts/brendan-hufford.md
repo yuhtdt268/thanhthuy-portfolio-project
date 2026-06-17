@@ -1,8 +1,8 @@
 # LinkedIn Post: Google Says AEO and GEO Are "Still SEO" — I Don't Believe Them
 
-**Expert:** Brendan Hufford
-**LinkedIn:** https://www.linkedin.com/in/brendanhufford/
-**Why this post:** Brendan tracks 100+ AEO prompts per client engagement and his real-world data contradicts Google's official public guidance — a high-signal, practitioner-backed perspective on how to actually approach AI search.
+* **Expert**: Brendan Hufford 
+* **LinkedIn**: [https://www.linkedin.com/in/brendanhufford/](https://www.linkedin.com/in/brendanhufford/)
+* **Why this post**: Brendan tracks 100+ AEO prompts per client engagement and his real-world data contradicts Google's official public guidance — a high-signal, practitioner-backed perspective on how to actually approach AI search.
 
 ---
 

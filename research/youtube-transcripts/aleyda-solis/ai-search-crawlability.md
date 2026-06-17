@@ -1,9 +1,9 @@
 # AI Search Crawlability and Why Your Site's Tech Foundations Decide Visibility
 
-**Expert:** Aleyda Solís
-**Interviewed by:** Pipeline Podcast (Phil & John Taylor)
-**URL:** [https://www.youtube.com/watch?v=pqrwpXpMM6s](https://www.youtube.com/watch?v=pqrwpXpMM6s)  
-**Why this video:** Aleyda Solís is one of the most respected international SEO consultants in the world, founder of Orainti, author of the SEO FOMO newsletter (40k+ subscribers), and frequent speaker at major marketing conferences. This episode covers the technical and strategic gaps between traditional SEO and AI search visibility, with specific guidance on crawlability, content strategy, and how to audit your LLM presence.
+* **Expert:** Aleyda Solís
+* **Interviewed by:** Pipeline Podcast (Phil & John Taylor)
+* **URL:** [https://www.youtube.com/watch?v=pqrwpXpMM6s](https://www.youtube.com/watch?v=pqrwpXpMM6s)  
+* **Why this video:** Aleyda Solís is one of the most respected international SEO consultants in the world, founder of Orainti, author of the SEO FOMO newsletter (40k+ subscribers), and frequent speaker at major marketing conferences. This episode covers the technical and strategic gaps between traditional SEO and AI search visibility, with specific guidance on crawlability, content strategy, and how to audit your LLM presence.
 
 ---
 
